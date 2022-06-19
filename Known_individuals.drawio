@@ -1,171 +1,428 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T20:05:09.154Z" agent="5.0 (X11)" etag="Yr_QzBnpUe27bmKHbWIl" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T19:46:05.050Z" agent="5.0 (X11)" etag="PV4usb1z9qf_Sr0-hUp8" version="20.0.1" type="github">
   <diagram id="gbaLWGpXBdMdFqUW5PpV" name="Page-1">
-    <mxGraphModel dx="1550" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4305" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-1" target="l7LqwyLG8jI9HYObJXHe-5">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;endArrow=none;endFill=0;" parent="1" source="l7LqwyLG8jI9HYObJXHe-1" target="l7LqwyLG8jI9HYObJXHe-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-1" value="Волотам Геддарм" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-279" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-5" target="l7LqwyLG8jI9HYObJXHe-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="150" />
-              <mxPoint x="260" y="90" />
+              <mxPoint x="-390" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-1" target="l7LqwyLG8jI9HYObJXHe-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="150" />
-              <mxPoint x="260" y="230" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-5" value="Флун Благмар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="460" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-1" value="Волотам Геддарм" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-5" value="Флун Благмар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-8" target="l7LqwyLG8jI9HYObJXHe-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="230" />
-              <mxPoint x="630" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-8" value="Рейнар Неверембер" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="140" height="60" as="geometry">
-            <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-13" value="Благородный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-8">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-16" value="Арфисты" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="730" y="10" width="190" height="400" as="geometry">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-16" value="Арфисты" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="710" width="201" height="570" as="geometry">
             <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-19" value="Мирт Безжалостный" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-16">
-          <mxGeometry x="25" y="190" width="140" height="120" as="geometry">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-19" value="Мирт Безжалостный" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="l7LqwyLG8jI9HYObJXHe-16" vertex="1">
+          <mxGeometry x="30.5" y="225" width="140" height="120" as="geometry">
             <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-20" value="&quot;Старый волк&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-19">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-20" value="&quot;Старый волк&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-19" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-25" value="Благородный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-19">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-25" value="Благородный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-19" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-31" value="Лорд в маске" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-19">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-31" value="Лорд в маске" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-19" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-39" value="Ремолия Хевентри" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-16">
-          <mxGeometry x="20" y="35" width="140" height="120" as="geometry">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-39" value="Ремолия Хевентри" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="l7LqwyLG8jI9HYObJXHe-16" vertex="1">
+          <mxGeometry x="30.5" y="40" width="140" height="150" as="geometry">
             <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-41" value="&quot;Реми&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-39">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-41" value="&quot;Реми&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-39" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-42" value="глава дома &#xa;Ульбринтер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-39">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-42" value="глава дома &#xa;Ульбринтер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-39" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-48" value="Солнечный эльф" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-39">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-48" value="Солнечный эльф" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-39" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-24" value="Лейраль Сильверхенд" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="230" width="140" height="90" as="geometry" />
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-1" value="Вдова лорда Артагаста" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-39">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-34" value="Явный лорд" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-24">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-49" value="Полубог" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-24">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-19" target="l7LqwyLG8jI9HYObJXHe-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1040" y="260" />
-              <mxPoint x="1040" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-35" value="Дарнан" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="20" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-36" value="Владелец &#xa;&quot;Зияющего портала&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-35">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-19" target="l7LqwyLG8jI9HYObJXHe-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1010" y="260" />
-              <mxPoint x="1010" y="50" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-38" value="Бывшие соратники" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l7LqwyLG8jI9HYObJXHe-37">
-          <mxGeometry x="-0.0927" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-13" target="l7LqwyLG8jI9HYObJXHe-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="230" />
-              <mxPoint x="630" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-50" value="Артиус Хевентри" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-270" width="140" height="90" as="geometry">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-8" value="Рейнар Неверембер" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="l7LqwyLG8jI9HYObJXHe-16" vertex="1">
+          <mxGeometry x="30.5" y="370" width="140" height="60" as="geometry">
             <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-52" value="Учится музыке&#xa; в Сильверимуне" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-50">
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-13" value="Благородный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-8" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-51" value="Полуэльф" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-50">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-39" target="l7LqwyLG8jI9HYObJXHe-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="105" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-55" value="Сын" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l7LqwyLG8jI9HYObJXHe-54">
-          <mxGeometry x="0.2185" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-57" value="Серенор Хевентри" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-270" width="140" height="90" as="geometry">
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-13" value="Три струны" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-16">
+          <mxGeometry x="30.5" y="459" width="140" height="60" as="geometry">
             <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-59" value="глава дома &#xa;Ульбринтер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-57">
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-14" value="Маттрим Мейрег" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-13">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-60" value="на острове Аларон &#xa;с мужем и дочерью" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-57">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-39" target="l7LqwyLG8jI9HYObJXHe-57">
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-35" target="Pfjm8Cp7HDKzShB5UJjy-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="105" />
-              <mxPoint x="980" y="-110" />
-              <mxPoint x="1090" y="-110" />
+              <mxPoint x="190" y="1544" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7LqwyLG8jI9HYObJXHe-62" value="Дочь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l7LqwyLG8jI9HYObJXHe-61">
-          <mxGeometry x="-0.0515" y="-3" relative="1" as="geometry">
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-35" target="l7LqwyLG8jI9HYObJXHe-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="490" />
+              <mxPoint x="30" y="580" />
+              <mxPoint x="-40" y="580" />
+              <mxPoint x="-40" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-79" value="Бывшие соратники" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-78">
+          <mxGeometry x="0.7339" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-35" value="Дарнан" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-36" value="Владелец &#xa;&quot;Зияющего портала&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-35" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-17" value="Шайка доппельгангеров" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1464" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-6" value="Бонни" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-17">
+          <mxGeometry x="30" y="35" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-10" value="Бармен в &#xa;&quot;Зияющем портале&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-6">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-7" value="Допельгангер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-6">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-33" value="Гильдия Занатара" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="710" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-34" value="Занатар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-33">
+          <mxGeometry x="30" y="35" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-35" value="Бехолдер" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-34">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-100" value="Нар&#39;ль Зебриндас" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-33">
+          <mxGeometry x="25" y="465" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-101" value="Советник" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-100">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-37" value="Жентарим (Маншун)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="710" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-38" value="Маншун" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-37">
+          <mxGeometry x="30" y="35" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-39" value="Клон" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-38">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-40" value="Жентарим (Разбойники Рока)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="210" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-41" value="Давил Старсонг" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-40">
+          <mxGeometry x="30" y="35" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-42" value="Солнечный Эльф" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-41">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-59" value="Мастер сделок &#xa;и переговоров" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-41">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-43" value="Холг" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-40">
+          <mxGeometry x="30" y="410" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-44" value="В оригинале Ягра" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-43">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-45" value="Полуорк" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-43">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-134" value="Мастер оружия &#xa;и наемников" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-43">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-67" value="Помог Дармини &#xa;и Хакгатошу в прошлом" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-43">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-60" value="Истрид Хорн" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-40">
+          <mxGeometry x="30" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-62" value="Мастер торговли &#xa;и монет" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-60">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-63" value="Скимо Вирдботл" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-40">
+          <mxGeometry x="30" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-64" value="Мастер магии" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-63">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-65" value="Зираж-охотник" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-40">
+          <mxGeometry x="30" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-66" value="Мастер убийств" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-65">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-46" value="Серый Отряд" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="710" width="180" height="600" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-47" value="Мейлун Вардрагон" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-46">
+          <mxGeometry x="20" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-48" value="Веселый и &#xa;оптимистичный" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-47">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-135" value="Ваджа Сафар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-46">
+          <mxGeometry x="20" y="45" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-136" value="Черный посох" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-135">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-51" value="Альянс Лордов" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="550" y="720" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-52" value="Джалестер &#xa;Сильвермейн" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-51">
+          <mxGeometry x="25" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-24" value="Лейраль Сильверхенд" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="Pfjm8Cp7HDKzShB5UJjy-51" vertex="1">
+          <mxGeometry x="25" y="35" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-34" value="Явный лорд" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-24" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-32" value="Полубог" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="l7LqwyLG8jI9HYObJXHe-24">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7LqwyLG8jI9HYObJXHe-49" value="Раньше была Арфистом" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="l7LqwyLG8jI9HYObJXHe-24" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-2" value="Дагульт Неверембер" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-51">
+          <mxGeometry x="25" y="470" width="140" height="90" as="geometry">
+            <mxRectangle x="290" y="200" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-3" value="Бывший явный лорд" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-5" value="Лорд невервинтера" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-55" value="Бреган Д&#39;эрт&#xa;(Ярморка морских дев)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="710" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-88" value="Джарлаксл Бэнр" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-55">
+          <mxGeometry x="20" y="45" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-92" value="Капитан Зардоз Зорд" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-88">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-89" value="Перевоплощается" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-88">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-93" value="Фельрект Лафин" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-55">
+          <mxGeometry x="20" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-95" value="Стрелок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-93">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-96" value="Креббиг Маск&#39;иль&#39;ир" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-55">
+          <mxGeometry x="20" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-97" value="Стрелок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-96">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-98" value="Солун Зебриндас" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-55">
+          <mxGeometry x="20" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-99" value="Стрелок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-98">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-68" value="Орден Перчатки" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="710" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-69" value="Халом" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-68">
+          <mxGeometry x="25" y="45" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-70" value="Монах &#xa;на вершине горы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-69">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Pfjm8Cp7HDKzShB5UJjy-47" target="Pfjm8Cp7HDKzShB5UJjy-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1309" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="920" />
+              <mxPoint x="-50" y="670" />
+              <mxPoint x="-1400" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-74" value="пожиратель интеллекта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-73">
+          <mxGeometry x="0.2688" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pfjm8Cp7HDKzShB5UJjy-13" target="Pfjm8Cp7HDKzShB5UJjy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="1364" />
+              <mxPoint x="-290" y="1364" />
+              <mxPoint x="-290" y="1544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-76" value="Знает секрет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-75">
+          <mxGeometry x="0.1056" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-19" target="l7LqwyLG8jI9HYObJXHe-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="995" />
+              <mxPoint x="-100" y="670" />
+              <mxPoint x="530" y="670" />
+              <mxPoint x="530" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-81" value="Советник" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-80">
+          <mxGeometry x="0.6448" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="l7LqwyLG8jI9HYObJXHe-8" target="Pfjm8Cp7HDKzShB5UJjy-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="1110" />
+              <mxPoint x="-90" y="1360" />
+              <mxPoint x="645" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-84" value="Отец/сын" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-83">
+          <mxGeometry x="-0.7628" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-85" value="Изумрудный анклав" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="710" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-104" value="Джейрит Фолкон" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-85">
+          <mxGeometry x="20" y="38" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-105" value="Полубогиня" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-104">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-110" value="Аристократка" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-104">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-109" value="Служит Миликки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-104">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-106" value="Мелланор Фелбранч" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-85">
+          <mxGeometry x="20" y="190" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-108" value="Полуэльф" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-106">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-107" value="садовник на вилле" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-106">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-111" value="Блосс Снобидль" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-85">
+          <mxGeometry x="20" y="300" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-112" value="полурослик, &#xa;матриарх семьи" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-111">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-113" value="Друид" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-111">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;dashed=1;" edge="1" parent="1" source="Pfjm8Cp7HDKzShB5UJjy-100" target="Pfjm8Cp7HDKzShB5UJjy-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1280" y="1205" />
+              <mxPoint x="-1280" y="690" />
+              <mxPoint x="-940" y="690" />
+              <mxPoint x="-940" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-103" value="шпион" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-102">
+          <mxGeometry x="0.0895" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-114" value="Бессеребренники&#xa;(Крысы-оборотни)" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="1430" width="190" height="580" as="geometry">
+            <mxRectangle x="730" y="10" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-125" value="Дешер Снобидль" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-114">
+          <mxGeometry x="20" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-127" value="Полурослик" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-125">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Pfjm8Cp7HDKzShB5UJjy-111" target="Pfjm8Cp7HDKzShB5UJjy-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1520" y="1055" />
+              <mxPoint x="-1520" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-129" value="сын/мать" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pfjm8Cp7HDKzShB5UJjy-128">
+          <mxGeometry x="0.2394" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-130" value="Титч Краснощекий" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-1475" y="1600" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-131" value="Полурослик" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-130">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-132" value="Сирота" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-130">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pfjm8Cp7HDKzShB5UJjy-133" value="Рос в приюте с Виго" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Pfjm8Cp7HDKzShB5UJjy-130">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
